@@ -17,7 +17,7 @@ I'm Tushar Nayan a Full Stack Web Developer and Photographer from India. I Spend
 - 📫 How to reach me: tusharnayan10@gmail.com.
 - 💬 Ask me about anything [here!](https://github.com/tusharnayan10/tusharnayan10/issues)
 - 😄 Most used line of code `git commit -m "Initial Commit"`
-- ⚡ Fun fact: I play to Dinosaur Cactus.
+- ⚡ Fun fact: I love to play Dinosaur Cactus.
 <br>
 
 ### Top Technologies & Tools <hr>
