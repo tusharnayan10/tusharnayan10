@@ -17,7 +17,7 @@ I'm Tushar Nayan a Full Stack Web Developer and Photographer from India. I Spend
 - 📫 How to reach me: tusharnayan10@gmail.com.
 - 💬 Ask me about anything [here!](https://github.com/tusharnayan10/tusharnayan10/issues)
 - 😄 Most used line of code `git commit -m "Initial Commit"`
-- ⚡ Fun fact: I play Dinosaur Cactus.
+- ⚡ Fun fact: I play to Dinosaur Cactus.
 <br>
 
 ### Top Technologies & Tools <hr>
@@ -66,6 +66,6 @@ I love building APP and Website
 
 - `npm i express body-parser ejs dotenv mongoose lodash`
 
-- Visit: [WEBSITE](http://www.bitgen.in/)
-- Visit: [My Page (bitgen.in)](http://www.bitgen.in/)
+- Visit: [@WEBSITE: BITGEN.IN](http://www.bitgen.in/)
+
   
