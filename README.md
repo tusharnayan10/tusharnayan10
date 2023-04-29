@@ -10,7 +10,8 @@ Motivated Computer Science enthusiast and MERN Stack Developer with industry exp
 <!-- TODO: Add last video link -->
 
 ## ABOUT ME
-- 🎓 I am a *Information Technology* Student who's pursuing *B.Tech* from **Sikkim Manipal University**.
+- 🎓 I am a *Computer Science* Student who's pursuing *Masters Degree* from **Florida International University**.
+- 🎓 I did my Bachelor's in *Information Technology* from **Sikkim Manipal University**.
 - 🔭 I’m currently working on building Mobile app using React-Native.
 - 🌱 I’m currently learning REACT-NATIVE and REACT.JS.
 - 😄 Pronouns: Tushar, Coder, "Hello World"😉.
@@ -34,18 +35,9 @@ Motivated Computer Science enthusiast and MERN Stack Developer with industry exp
 <br />
 
 #### Business 👇 
--  VISIT: [My Page (bitgen.in)](http://www.bitgen.in/)
 -  EMAIL: tusharnayan10@gmail.com
   
-#### Profile Visits 😛
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tusharnayan10.tusharnayan10)
-
-
-## More stuff about me <hr>
-<br >
-I love building APP and Website
-<br>
-<br> 
+ 
 
 ### Coding Stats
 
@@ -66,6 +58,5 @@ I love building APP and Website
 
 - `npm i express body-parser ejs dotenv mongoose lodash`
 
-- Visit: [@WEBSITE: BITGEN.IN](http://www.bitgen.in/)
 
   
