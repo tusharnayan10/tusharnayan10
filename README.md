@@ -1,6 +1,6 @@
 # Hi I'm Tushar Nayan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Tushar Nayan a Full Stack Web Developer and Photographer from India. I Spend most of time coding outstanding projects.
+Motivated Computer Science enthusiast and MERN Stack Developer with industry experience building web applications and tools which provide solutions to a real-world problems. I specialize in JavaScript and have professional experience working with Node and React. I also have experience working with C, C++, Java, Python, Abode Photoshop, and Abode Premiere Pro.
 
 
 ### Reach me out! <hr> 
