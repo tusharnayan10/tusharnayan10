@@ -10,9 +10,9 @@ Motivated Computer Science enthusiast eager to pursue research in the demanding 
 <!-- TODO: Add last video link -->
 
 ## ABOUT ME
-- 🎓 I am a *Masters Degree* student pursuing major in *Computer Science* from **Florida International University, USA** [Graduating - May,2024].
-- 👨‍🎓  I graduated with a Bachelor's degree in *Information Technology* from **Sikkim Manipal University in India.**.
+- 🎓 I am a *Masters Degree* student pursuing major in *Computer Science* from **Florida International University, USA**.
 - 👨‍💻 Working as a Research Assistant at Florida International University, FL.
+- 👨‍🎓  I graduated with a Bachelor's degree in *Information Technology* from **Sikkim Manipal University in India.**
 - 🔭 Interested in research in fields of Machine Learning Security, Mobile Device Security, IoT Systems Security, and Software Security.
 - 🔥 I am currently intrigued by the significant impact of Artificial Intelligence and Machine Learning, along with the associated security concerns and vulnerabilities..
 - 🌱 I’m looking for joining a Ph.D. Degree program in Computer Science.
@@ -32,8 +32,7 @@ Motivated Computer Science enthusiast eager to pursue research in the demanding 
 - 🙌 Familiar with: TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, OpenCV
 - 🛠 Tools: MS Office, VS Code, Docker, Anaconda, Adobe Photoshop, Git, and Figma
 
-### 🥰 Happy Coding 
-
+### 🥰 Happy Coding ✨
 <br>
 
 
