@@ -10,7 +10,7 @@ Motivated Computer Science enthusiast and MERN Stack Developer with industry exp
 <!-- TODO: Add last video link -->
 
 ## ABOUT ME
-- 🎓 I am a *Masters Degree* student pursuing doing major in *Computer Science* from **Florida International University, USA**.
+- 🎓 I am a *Masters Degree* student pursuing major in *Computer Science* from **Florida International University, USA**.
 -  👨‍🎓  I graduated with a Bachelor's degree in *Information Technology* from **Sikkim Manipal University in India.**
 - 🔭 I’m currently fascinated by the profound impact of Machine Learning and Artificial Intelligence.
 - 🌱 I’m looking for joining a Ph.D. Degree program in Computer Science.
