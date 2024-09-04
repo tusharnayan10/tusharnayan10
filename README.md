@@ -11,11 +11,11 @@ Computer Science enthusiast eager to pursue research in the demanding fields of 
 
 ## ABOUT ME
 - 🎓 I'm currently a *Ph.D Student* in *Computer Science* at **Florida International University, USA**.
-- 👨‍💻 Working as a Graduate Teaching Assistant at Florida International University, FL.
+- 👨‍💻 Working as a Graduate Research Assistant at Florida International University, FL.
 - 🔭 Passionate about research in the areas of Machine Learning Security, Mobile Device Security, IoT Systems Security, and Software Security.
 - 👨‍🎓 I graduated with a *Master's degree* in *Computer Science* from **Florida International University, USA**
-- 👨‍🎓 I have h a Bachelor's degree in *Information Technology* from **Sikkim Manipal University in India.**
-- 🔥 I am currently intrigued by the significant impact of Artificial Intelligence and Machine Learning, along with the associated security concerns and vulnerabilities.
+- 👨‍🎓 I have a Bachelor's degree in *Information Technology* from **Sikkim Manipal University in India.**
+- 🔥 I am intrigued by the significant impact of Artificial Intelligence and Machine Learning, along with the associated security concerns and vulnerabilities.
 - 🤩 Interested in photography, traveling, and gym.
 - 🙊 Windows is the best for Machine Learning.
 - 😄 Pronouns: "Tushar", 😉.
@@ -26,7 +26,7 @@ Computer Science enthusiast eager to pursue research in the demanding fields of 
 ## SKILLS 
 
 - ✏️ Programming Languages: C, C++, JavaScript, Python, Java
-- 🖥️ Web Technology: React, Redux, Node, Express, PhP, Django, HTML5, CSS3, Bootstrap
+- 🖥️ Web Technology: React, Redux, Node, Express, PHP, Django, HTML5, CSS3, Bootstrap
 - ⚙️ Operating System: Windows, Linux, Mac OS
 - 😎 Databases: MongoDB, MySQL
 - 🙌 Familiar with: TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas, OpenCV
